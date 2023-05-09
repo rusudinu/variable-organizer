@@ -1,0 +1,29 @@
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csprojAssemblyReference.cache
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.Form1.resources
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.Properties.Resources.resources
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.GenerateResource.cache
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\bin\Debug\VariableOrganizer.exe.config
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\bin\Debug\VariableOrganizer.exe
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\bin\Debug\VariableOrganizer.pdb
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.exe
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.pdb
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\bin\Debug\EPPlus.dll
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\bin\Debug\EPPlus.xml
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.Form2.resources
+C:\Users\KillingShadow\Desktop\visual studio projects\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.CopyComplete
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\bin\Debug\VariableOrganizer.exe.config
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\bin\Debug\VariableOrganizer.exe
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\bin\Debug\VariableOrganizer.pdb
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\bin\Debug\EPPlus.dll
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\bin\Debug\EPPlus.xml
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.AssemblyReference.cache
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.SuggestedBindingRedirects.cache
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.Form1.resources
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.Form2.resources
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.Properties.Resources.resources
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.GenerateResource.cache
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.CoreCompileInputs.cache
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.csproj.CopyComplete
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.exe
+H:\projects-archive\unstructured\visual studio projects - laptop\VariableOrganizer\VariableOrganizer\obj\Debug\VariableOrganizer.pdb
